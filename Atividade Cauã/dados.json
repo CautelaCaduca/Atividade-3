@@ -1,0 +1,7 @@
+{
+    "catalago": [
+        { "nomedoproduto": "Camiseta", "preco": 199.90, "desc": "Camiseta 100% algodão, super confortavel" },
+        { "nomedoproduto": "Tênis", "preco": 199.90, "desc": "Tênis esportivo leve e resistente" },
+        { "nomedoproduto": "mochila", "preco": 199.90, "desc": "Mochila espaçosa com designmoderno." }
+    ]
+}
